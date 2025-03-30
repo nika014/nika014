@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, World!🌎
 
-<!--
-**nika014/nika014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Nicolas Gabriel, and...
 
-Here are some ideas to get you started:
+_Actually i'm studying in the technology university, **FATEC**, and studying programation languages as Python and HTML at home. I wanna be a very great programmer and solve all that boring problems._
+_I'll leave my learnings and projects right here in my profile... Hope you like!_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+#### **_Find me here✍️_**
+
+**E-mail:** <nicolas.gabriel.garcez17@gmail.com>
+
+**Instagram:** <https://www.intagram.com/nika_garcez>
+
+**Facebook:** <https://www.facebook.com/profile.php?id=61574732073528>
+
+**Linkedin:** <https://www.linkedin.com/in/nicolas-gabriel-garcez-fernandes-pinto-496a11355>
+
+
+
+
+
+![Alt](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)

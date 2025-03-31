@@ -11,13 +11,13 @@ _I'll leave my learnings and projects right here in my profile... Hope you like!
 
 #### **_Find me here✍️_**
 
-**E-mail:** <nicolas.gabriel.garcez17@gmail.com>
+[**E-mail**](<nicolas.gabriel.garcez17@gmail.com>)
 
-**Instagram:** <https://www.intagram.com/nika_garcez>
+[**Instagram**](<https://www.intagram.com/nika_garcez>)
 
-**Facebook:** <https://www.facebook.com/profile.php?id=61574732073528>
+[**Facebook**](<https://www.facebook.com/profile.php?id=61574732073528>)
 
-**Linkedin:** <https://www.linkedin.com/in/nicolas-gabriel-garcez-fernandes-pinto-496a11355>
+[**LinkedIn**](<https://www.linkedin.com/in/nicolas-gabriel-garcez-fernandes-pinto-496a11355>) 
 
 
 
